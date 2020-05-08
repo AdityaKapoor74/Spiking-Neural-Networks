@@ -1,2 +1,2 @@
 # SpiNNaker tutorials
-This repository is for learning and exploring Spiking Neural Networks with PyGeNN. They are all documented notebooks teaching you how to use the PyGeNN interface.
+This repository is for learning and exploring Spiking Neural Networks with PyNN API that makes use of SpiNNaker. 

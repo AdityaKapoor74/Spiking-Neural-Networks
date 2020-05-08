@@ -1,7 +1,2 @@
-# Learning Spiking Neural Networks using different Platforms
-This repository is for learning and exploring Spiking Neural Networks.
-
-Current platforms in place:
-- [x] SpiNNaker
-- [x] GeNN
-- [ ] Bindsnet
+# PyGeNN tutorials which makes use of GeNN
+This repository is for learning and exploring Spiking Neural Networks with PyGeNN. They are all documented notebooks teaching you how to use the PyGeNN interface.
